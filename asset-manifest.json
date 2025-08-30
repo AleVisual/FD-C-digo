@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FD-C-digo/static/css/main.161f71df.css",
-    "main.js": "/FD-C-digo/static/js/main.038d84fb.js",
+    "main.js": "/FD-C-digo/static/js/main.7d8243d4.js",
     "static/media/proyecto1.jpg": "/FD-C-digo/static/media/proyecto1.b2c6ee579ecbc057ef73.jpg",
     "static/media/proyecto2.jpg": "/FD-C-digo/static/media/proyecto2.4c511ab9e9c5dd4ba05c.jpg",
     "index.html": "/FD-C-digo/index.html",
     "main.161f71df.css.map": "/FD-C-digo/static/css/main.161f71df.css.map",
-    "main.038d84fb.js.map": "/FD-C-digo/static/js/main.038d84fb.js.map"
+    "main.7d8243d4.js.map": "/FD-C-digo/static/js/main.7d8243d4.js.map"
   },
   "entrypoints": [
     "static/css/main.161f71df.css",
-    "static/js/main.038d84fb.js"
+    "static/js/main.7d8243d4.js"
   ]
 }
