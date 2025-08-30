@@ -52,7 +52,7 @@ const App = () => {
       >
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-          style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/Foto/fon2.jpg)` }}
+          style={{ backgroundImage: `url("/Foto/fon2.jpg")` }}
         >
           <div className="absolute inset-0 bg-black opacity-60"></div>
         </div>
@@ -107,7 +107,7 @@ const App = () => {
                   </div>
                   <div className="w-48 h-48 md:w-56 md:h-56">
                     <img
-                      src={`${process.env.PUBLIC_URL}/Foto/foto1.jpg`}
+                      src="/Foto/foto1.jpg"
                       alt="Alejandro Bajuk"
                       className="w-full h-full object-cover rounded-full shadow-neumorphic-dark"
                     />
@@ -141,7 +141,7 @@ const App = () => {
         <div className="flex justify-center space-x-6">
           <a href="https://instagram.com/alejandrobajuk" target="_blank" rel="noopener noreferrer" className="hover:text-gray-300 transition-colors duration-300"><FaInstagram className="inline-block w-6 h-6" /></a>
           <a href="https://facebook.com/alejandrobajuk" target="_blank" rel="noopener noreferrer" className="hover:text-gray-300 transition-colors duration-300"><FaFacebook className="inline-block w-6 h-6" /></a>
-          <a href="https://wa.me/tunumero" target="_blank" rel="noopener noreferrer" className="hover:text-gray-300 transition-colors duration-300"><FaWhatsapp className="inline-block w-6 h-6" /></a>
+          <a href="https://wa.me/549228463908" target="_blank" rel="noopener noreferrer" className="hover:text-gray-300 transition-colors duration-300"><FaWhatsapp className="inline-block w-6 h-6" /></a>
         </div>
       </motion.footer>
     </div>
